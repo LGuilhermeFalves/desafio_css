@@ -116,7 +116,7 @@ body {
   flex-direction: column;
   padding: 10px;
   display: flex;
-  margin-bottom: 20px;
+  margin: 15px;
 }
 
 .card-title {
@@ -139,7 +139,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  width: 40%;
+  width: 30%;
   padding: 10px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   margin: 30px;
@@ -156,6 +156,7 @@ body {
 .autoresize {
   font-family: "Roboto", sans-serif;
   border-width: 0;
+  resize: none;
 }
 
 .container {
