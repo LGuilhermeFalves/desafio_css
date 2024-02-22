@@ -36,13 +36,13 @@ body {
 }
 .logo {
   width: 70px;
-  height: 30px;
+  height: 40px;
   align-items: center;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
   padding-right: 20px;
-  margin-top: -6px;
+  margin-top: -11px;
   margin-left: -9px;
 }
 /* Você pode usar o CSS comentado abaixo, se ajudar */
@@ -106,7 +106,6 @@ body {
 }
 
 .card {
-  background-color: #ead3a7;
   width: 210px;
   height: 130px;
   margin: 10px;
@@ -155,4 +154,24 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.card-color-1 {
+  background-color: #ead3a7;
+}
+
+.card-color-2 {
+  background-color: #9de0f5;
+}
+
+.card-color-3 {
+  background-color: #ef89ba;
+}
+
+.card-color-4 {
+  background-color: #fae890;
+}
+
+.card-color-5 {
+  background-color: #abe9c1;
 }
